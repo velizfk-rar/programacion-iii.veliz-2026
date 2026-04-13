@@ -27,3 +27,19 @@ Extras
 Conteo de pares e impares
 Ordenamiento de la lista de negativos
 Liberación de memoria al finalizar
+
+Cómo ejecutarlo:
+
+1. Compilar g++ codigo_fuente.cpp -o codigo_fuente
+2. ./codigo_fuente
+
+Historial de commits
+Commit 1: Creación de estructura base (Nodo)
+Commit 2: Implementación de pila (push, pop, peek)
+Commit 3: Implementación de cola (enqueue, dequeue, peek)
+Commit 4: Implementación de lista enlazada
+Commit 5: Integración de clasificación automática
+Commit 6: Creación de menú interactivo
+Commit 7: Validaciones y control de errores
+Commit 8: Funciones extra (estadísticas y ordenamiento)
+Commit 9: Liberación de memoria y optimización final
